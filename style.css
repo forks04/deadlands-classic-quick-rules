@@ -39,3 +39,9 @@ body{
 a:visited {
 	color: blue;
 }
+
+@media (max-width: 600px) {
+  body{
+    margin: 2em;
+  }
+}
