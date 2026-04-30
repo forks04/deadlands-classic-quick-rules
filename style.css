@@ -1,6 +1,31 @@
+@font-face {
+  font-family: RecLinear;
+  src: url(./fonts/RecursiveSansLnrSt-Regular.woff2);
+}
+
+@font-face {
+  font-family: RecLinear;
+  src: url(./fonts/RecursiveSansLnrSt-Bold.woff2);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: RecLinear;
+  src: url(./fonts/RecursiveSansLnrSt-Italic.woff2);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: RecLinear;
+  src: url(./fonts/RecursiveSansLnrSt-BdItalic.woff2);
+  font-style: italic;
+  font-weight: bold;
+}
+
 body{
 	margin: 10em;
 	margin-top: 1em;
+	font-family: "RecLinear";
 }
 
 .toc, .toc ul{
