@@ -1,0 +1,13 @@
+body{
+	margin: 10em;
+	margin-top: 1em;
+}
+
+.toc, .toc ul{
+	list-style-type: none;
+}
+
+.powerList {
+	margin: 3em 15em;
+}
+
