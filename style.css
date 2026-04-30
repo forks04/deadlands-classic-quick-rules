@@ -36,3 +36,6 @@ body{
 	margin: 3em 15em;
 }
 
+a:visited {
+	color: blue;
+}
